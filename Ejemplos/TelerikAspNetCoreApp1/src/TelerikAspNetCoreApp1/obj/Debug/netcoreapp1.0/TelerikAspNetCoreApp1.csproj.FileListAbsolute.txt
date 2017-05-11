@@ -1,0 +1,9 @@
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.deps.json
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.runtimeconfig.json
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.runtimeconfig.dev.json
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.dll
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\bin\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.pdb
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.AssemblyInfo.cs
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.dll
+c:\users\grego\documents\visual studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.pdb
+C:\Users\grego\Documents\Visual Studio 2017\Projects\TelerikAspNetCoreApp1\src\TelerikAspNetCoreApp1\obj\Debug\netcoreapp1.0\TelerikAspNetCoreApp1.csprojResolveAssemblyReference.cache

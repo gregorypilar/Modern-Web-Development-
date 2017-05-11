@@ -1,0 +1,28 @@
+﻿@addTagHelper "*, Kendo.Mvc"
+@{
+    ViewData["Title"] = "About";
+}
+<h2>@ViewData["Title"].</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+
+@(Html.Kendo()
+        .DatePicker()
+        .Name("mydate")
+        .Deferred()
+)
+
+<kendo-window name="myWindow">
+    <kendo-datetimepicker name="date"/> 
+    <kendo-numerictextbox name="currency" format="c" min="0"
+                          enable="true" max="100" value="30">
+    </kendo-numerictextbox>
+
+</kendo-window>
+
+@section scripts{
+    @Html.Kendo().DeferredScripts()
+}
+ 
+
